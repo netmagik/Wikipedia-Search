@@ -1,3 +1,10 @@
+body {
+  font-family: 'Dosis';
+}
+
+a {
+  color: darkblue;
+}
 .container {
     display: flex;
     align-items: center;
@@ -7,4 +14,8 @@
   input {
     padding: 10px 20px;
     font-size: 1.2rem;
+  }
+
+  .highlight {
+    background-color: lightpink;
   }
